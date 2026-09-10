@@ -2,6 +2,7 @@
 #include<vector>
 using namespace std;
 
+/*
 void rotate(vector<vector<int>>& matrix) {
     int n=matrix.size();
         // Transpose
@@ -21,9 +22,13 @@ void rotate(vector<vector<int>>& matrix) {
             }
         }
 }
+*/
 
 int main()
 {
+/*
+First Method, transpose of matrix then reverse each row you will get answer
+
     int row=4,col=4;
     vector<vector<int>> matrix(row, vector<int>(col, 0));
 
@@ -50,6 +55,65 @@ int main()
     for(int i=0;i<row;i++) {
         for(int j=0;j<col;j++) {
             cout<<matrix[i][j]<<" ";
+        }
+        cout<<endl;
+    }
+*/
+    
+
+// Optimized approach, reverse column then reverse rows and you will get answer
+   int row=3,col=3,n=3;
+   int mat[row][col];
+   
+
+   cout<<"Enter Elements: ";
+    for(int i=0;i<row;i++) {
+        for(int j=0;j<col;j++) {
+            cin>>mat[i][j];
+        }
+    }
+
+    cout<<"Before"<<endl;
+    for(int i=0;i<row;i++) {
+        for(int j=0;j<col;j++) {
+            cout<<mat[i][j]<<" ";
+        }
+        cout<<endl;
+    }
+
+    // Reverse Columns
+    for(int i=0;i<n;i++) {
+        int st=0,end=row-1;
+        while(st<end) {
+            swap(mat[st][i], mat[end][i]);
+            st++;
+            end--;
+        }
+    }
+
+
+    cout<<"After Reversing Columns"<<endl;
+    for(int i=0;i<row;i++) {
+        for(int j=0;j<col;j++) {
+            cout<<mat[i][j]<<" ";
+        }
+        cout<<endl;
+    }
+
+    // Reverse Rows
+    for(int i=0;i<n;i++) {
+        int st=0,end=row-1;
+        while(st<end) {
+            swap(mat[i][st], mat[i][end]);
+            st++;
+            end--;
+        }
+    }
+
+    cout<<"After Reversing Rows"<<endl;
+    for(int i=0;i<row;i++) {
+        for(int j=0;j<col;j++) {
+            cout<<mat[i][j]<<" ";
         }
         cout<<endl;
     }
