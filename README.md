@@ -72,6 +72,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0042-trapping-rain-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -84,6 +85,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0033-search-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -158,6 +160,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | ------- |
 | [0048-rotate-image](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0074-search-a-2d-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Sliding Window
 |  |
