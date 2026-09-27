@@ -75,6 +75,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0074-search-a-2d-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0169-majority-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/1539-kth-missing-positive-number) |
@@ -112,6 +113,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0003-longest-substring-without-repeating-characters](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -135,6 +137,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0169-majority-element) |
 | [1859-sorting-the-sentence](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -171,4 +174,16 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0686-repeated-string-match) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
