@@ -67,6 +67,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0042-trapping-rain-water) |
@@ -110,6 +111,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0013-roman-to-integer) |
