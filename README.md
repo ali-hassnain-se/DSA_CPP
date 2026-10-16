@@ -68,6 +68,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0042-trapping-rain-water) |
@@ -105,6 +106,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -135,6 +137,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0409-longest-palindrome) |
 ## Sorting
 |  |
