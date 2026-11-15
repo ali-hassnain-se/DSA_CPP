@@ -79,6 +79,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -212,4 +213,8 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
