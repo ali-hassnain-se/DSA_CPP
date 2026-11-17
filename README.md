@@ -71,6 +71,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0011-container-with-most-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0049-group-anagrams) |
@@ -120,6 +121,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0003-longest-substring-without-repeating-characters](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
@@ -174,6 +176,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0074-search-a-2d-matrix) |
