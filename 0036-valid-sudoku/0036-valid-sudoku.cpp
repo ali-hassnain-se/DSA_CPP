@@ -6,24 +6,56 @@ public:
 // sc = starting column
 // ec = ending column
 
-    bool traversal(vector<vector<char>>& board, int sr, int er, int sc, int ec) {
-        set<char> s;
+// Function to validate nine 3x3 sub-boxes
+    // bool traversal(vector<vector<char>>& board, int sr, int er, int sc, int ec) {
+    //     set<char> s;
 
-        for(int i=sr;i<=er;i++) {
-            for(int j=sc;j<=ec;j++) {
+    //     for(int i=sr;i<=er;i++) {
+    //         for(int j=sc;j<=ec;j++) {
+    //             if(board[i][j]=='.')
+    //             continue;
+
+    //             auto result=s.insert(board[i][j]);
+    //             if(result.second==false)
+    //             return false;
+    //         }
+    //     }
+
+    //     return true;
+    // }
+
+    bool isValidSudoku(vector<vector<char>>& board) {
+// Optimized Approach, one pass early exit, TC=O(1), SC=O(1), fixed (9x9) board
+// For n x n board: TC=O(n^2), SC=O(n^2)
+
+        vector<vector<bool>> rows(9, vector<bool>(9, false));
+        vector<vector<bool>> cols(9, vector<bool>(9, false));
+        vector<vector<bool>> boxes(9, vector<bool>(9, false));
+
+        for(int i=0;i<9;i++) {
+
+            for(int j=0;j<9;j++) {
+
                 if(board[i][j]=='.')
-                continue;
+                    continue;
 
-                auto result=s.insert(board[i][j]);
-                if(result.second==false)
-                return false;
+                int num=board[i][j]-'1';
+
+                int boxIndex=(i/3) * 3 + (j/3);
+
+                if(rows[i][num] || cols[j][num] || boxes[boxIndex][num])
+                    return false;
+
+                rows[i][num]=true;
+                cols[j][num]=true;
+                boxes[boxIndex][num]=true;
             }
         }
 
         return true;
-    }
 
-    bool isValidSudoku(vector<vector<char>>& board) {
+
+/*
 // Brute Force Approach, TC=O(1), SC=O(1)  (fixed 9x9 board)
 // For n x n board: TC=O(n^2), SC=O(n)
 
@@ -65,5 +97,6 @@ public:
         }
 
         return true;
+*/
     }
 };
