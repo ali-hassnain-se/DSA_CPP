@@ -25,6 +25,32 @@ public:
     // }
 
     bool isValidSudoku(vector<vector<char>>& board) {
+// Optimized Approach, using Hashing, TC=O(1), SC=O(1), fixed (9x9) board
+// For n x n board: TC=O(n^2), SC=O(n^2)
+
+        unordered_set<string> s;
+
+        for(int i=0;i<9;i++) {
+            for(int j=0;j<9;j++) {
+                if(board[i][j]=='.')
+                continue;
+
+                string row=string(1, board[i][j]) + "_ROW_" + to_string(i);
+                string col=string(1, board[i][j]) + "_COL_" + to_string(j);
+                string box=string(1, board[i][j]) + "_BOX_" + to_string(i/3) + "_" + to_string(j/3);
+
+                auto result1=s.insert(row);
+                auto result2=s.insert(col);
+                auto result3=s.insert(box);
+
+                if(!result1.second || !result2.second || !result3.second)
+                return false;
+            }
+        }
+
+        return true;
+
+/*
 // Optimized Approach, one pass early exit, TC=O(1), SC=O(1), fixed (9x9) board
 // For n x n board: TC=O(n^2), SC=O(n^2)
 
@@ -53,7 +79,7 @@ public:
         }
 
         return true;
-
+*/
 
 /*
 // Brute Force Approach, TC=O(1), SC=O(1)  (fixed 9x9 board)
