@@ -102,6 +102,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0048-rotate-image) |
