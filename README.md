@@ -77,6 +77,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0049-group-anagrams](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0169-majority-element) |
@@ -124,6 +125,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0013-roman-to-integer](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0409-longest-palindrome) |
@@ -221,4 +223,8 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
